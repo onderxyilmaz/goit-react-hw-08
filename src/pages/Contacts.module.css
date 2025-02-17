@@ -1,0 +1,27 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.section {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.sectionTitle {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.filterContainer {
+    margin-bottom: 20px;
+}
